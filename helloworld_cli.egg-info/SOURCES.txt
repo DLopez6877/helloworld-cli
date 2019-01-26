@@ -1,0 +1,11 @@
+README.md
+setup.py
+helloworld_cli.egg-info/PKG-INFO
+helloworld_cli.egg-info/SOURCES.txt
+helloworld_cli.egg-info/dependency_links.txt
+helloworld_cli.egg-info/entry_points.txt
+helloworld_cli.egg-info/top_level.txt
+pycli/__init__.py
+pycli/__main__.py
+pycli/classmodule.py
+pycli/funcmodule.py
